@@ -23,7 +23,7 @@ jobs:
       - name: Generate YouTube Cards
         uses: DenverCoder1/readme-youtube-cards@main
         with:
-          channel_id: 'UCzdrX5xfkwgzyT8u7lITpxg'      # ← Channel ID
+          channel_id: 'UCk90XrniuHDs4I3ZFJ-X1dQ'      # ← Channel ID
           max_videos: 6
           card_width: 250
           background_color: '#1a1b26'
