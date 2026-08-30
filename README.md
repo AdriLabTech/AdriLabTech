@@ -4,7 +4,7 @@
 
 ### <span style="color:#6B7280;">Building software · Exploring technology · Sharing the process</span>
 
-[![YouTube](https://img.shields.io/badge/YouTube-AdriLabTech-18181B?style=flat\&logo=youtube\&logoColor=white)](YOUR_YOUTUBE_URL)
+[![YouTube](https://img.shields.io/badge/YouTube-AdriLabTech-18181B?style=flat\&logo=youtube\&logoColor=white)](https://www.youtube.com/@DriTech-u8e)
 [![GitHub](https://img.shields.io/badge/GitHub-AdriLabTech-18181B?style=flat\&logo=github\&logoColor=white)](https://github.com/AdriLabTech)
 
 </div>
