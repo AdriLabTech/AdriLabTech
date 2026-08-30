@@ -1,0 +1,36 @@
+name: Update YouTube Cards
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # diario a medianoche UTC
+  workflow_dispatch:        # ejecución manual
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Generate YouTube Cards
+        uses: DenverCoder1/readme-youtube-cards@main
+        with:
+          channel_id: 'UCzdrX5xfkwgzyT8u7lITpxg'      # ← Channel ID
+          max_videos: 6
+          card_width: 250
+          background_color: '#1a1b26'
+          title_color: '#7dcfff'
+          stats_color: '#bb9af7'
+          lang: 'es'
+          author_name: 'AdriLabTech'
+          author_email: 'labs.lownoise@gmail.com'
+          commit_message: '🔄 Actualizar tarjetas de YouTube'
+          readme_path: 'README.md'
