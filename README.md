@@ -30,7 +30,7 @@ I work on projects across different areas of technology, from applications and d
 |     Software    |   Systems  |    Security   |            AI           |
 | :-------------: | :--------: | :-----------: | :---------------------: |
 |   Applications  |    Linux   | Cybersecurity | Artificial Intelligence |
-| Developer Tools | Networking |    Research   |        Automation       |
+| Developer Tools | Operating Systems |    Research   |        Automation       |
 
 </div>
 
