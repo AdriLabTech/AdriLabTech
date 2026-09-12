@@ -16,7 +16,7 @@
 
 I'm **Adrián**, un desarrollador de aplicaciones multiplataformas interesando en sistemas, ciberseguridad y nuevas tecnologias.
 
-**AdriLabTech** es donde conviertos mis ideas en proyectos, experimento con documentacion, nuevas tecnologias y aprendo.
+**AdriLabTech** es donde convierto mis ideas en proyectos, experimento con documentacion, nuevas tecnologias y aprendo.
 
 Disfruto construyendo cosas que me hagan pensar en la tecnologia desde diferentes perspectivas.
 
