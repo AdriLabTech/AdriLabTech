@@ -54,7 +54,7 @@ Trabajo en diferentes areas de la tecnologia en mis proyectos, desde aplicacione
 
 ---
 
-## <span style="color:#8B5CF6;">Latest videos</span>
+## <span style="color:#8B5CF6;">Ultimos videos</span>
 
 <div align="center">
 
@@ -80,15 +80,6 @@ Trabajo en diferentes areas de la tecnologia en mis proyectos, desde aplicacione
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdriLabTech&bg_color=000000&color=FFFFFF&line=808080&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-</div>
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!-- TABLA DINÁMICA DE PROYECTOS -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
-<img src="https://img.shields.io/badge/-333333?style=flat-square" width="12" height="12"/>  PROYECTOS DESTACADOS
-<div align="center">
-</div>
 
 ---
 
