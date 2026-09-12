@@ -21,10 +21,10 @@ I'm **Adrián**, un desarrollador de aplicaciones multiplataformas interesando e
 Disfruto construyendo cosas que me hagan pensar en la tecnologia desde diferentes perspectivas.
 
 ---
-
+```text
 "El código es como el humor. Cuando tienes que explicarlo, es malo."
 - Cory House
-
+```
 
 ## <span style="color:#8B5CF6;">Que desarrollo...</span>
 Trabajo en diferentes areas de la tecnologia en mis proyectos, desde aplicaciones para moviles y escritorio, hasta herramientas de sistemas y seguridad de software.
