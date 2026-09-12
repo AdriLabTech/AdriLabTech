@@ -1,38 +1,33 @@
 <div align="center">
 
-# <span style="color:#8B5CF6;">AdriLabTech</span>
 
-### <span style="color:#6B7280;">Building software · Exploring technology · Sharing the process</span>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=ADRILABTECH&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" width="100%"/>
 
-[![YouTube](https://img.shields.io/badge/YouTube-AdriLabTech-18181B?style=flat\&logo=youtube\&logoColor=white)](YOUR_YOUTUBE_URL)
+### <span style="color:#6B7280;">Construyendo software · Explorando tecnologias · Compartiendo el proceso</span>
+
+[![YouTube](https://img.shields.io/badge/YouTube-AdriLabTech-18181B?style=flat\&logo=youtube\&logoColor=white)](https://www.youtube.com/@DriTech-u8e)
 [![GitHub](https://img.shields.io/badge/GitHub-AdriLabTech-18181B?style=flat\&logo=github\&logoColor=white)](https://github.com/AdriLabTech)
 
 </div>
 
 ---
 
-## <span style="color:#8B5CF6;">About</span>
+## <span style="color:#8B5CF6;">Acerca de mi...</span>
 
-I'm **Adri**, a developer interested in software engineering, systems, cybersecurity and emerging technologies.
+I'm **Adriàn**, un desarrollador de aplicaciones multiplataformas interesando en sistemas, ciberseguridad y nuevas tecnologias.
 
-**AdriLabTech** is where I turn ideas into projects, experiment with new technologies and document what I learn along the way.
+**AdriLabTech** es donde conviertos mis ideas en proyectos, experimento con documentacion, nuevas tecnologias y aprendo.
 
-I enjoy building things that make me understand technology from a different perspective.
+Disfruto construyendo cosas que me hagan pensar en la tecnologia desde diferentes perspectivas.
 
 ---
 
-## <span style="color:#8B5CF6;">What I build</span>
+"El código es como el humor. Cuando tienes que explicarlo, es malo."
+- Cory House
 
-I work on projects across different areas of technology, from applications and developer tools to systems, networking and security.
 
-<div align="center">
-
-|     Software    |   Systems  |    Security   |            AI           |
-| :-------------: | :--------: | :-----------: | :---------------------: |
-|   Applications  |    Linux   | Cybersecurity | Artificial Intelligence |
-| Developer Tools | Networking |    Research   |        Automation       |
-
-</div>
+## <span style="color:#8B5CF6;">Que desarrollo...</span>
+Trabajo en diferentes areas de la tecnologia en mis proyectos, desde aplicaciones para moviles y escritorio, hasta herramientas de sistemas y seguridad de software.
 
 ---
 
@@ -40,7 +35,7 @@ I work on projects across different areas of technology, from applications and d
 
 <div align="center">
 
-### Languages
+### Lenguages
 
 ![Rust](https://img.shields.io/badge/Rust-18181B?style=flat-square\&logo=rust\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-18181B?style=flat-square\&logo=openjdk\&logoColor=white)
@@ -48,7 +43,7 @@ I work on projects across different areas of technology, from applications and d
 ![Bash](https://img.shields.io/badge/Bash-18181B?style=flat-square\&logo=gnubash\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-18181B?style=flat-square\&logo=postgresql\&logoColor=white)
 
-### Tools
+### Herramientas
 
 ![Linux](https://img.shields.io/badge/Linux-18181B?style=flat-square\&logo=linux\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-18181B?style=flat-square\&logo=git\&logoColor=white)
@@ -64,26 +59,35 @@ I work on projects across different areas of technology, from applications and d
 <div align="center">
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![[51:05:360] Poppy Playtime Chapter 3 - No Major Skips](https://ytcards.demolab.com/?id=aPcSeXwW8BU&title=%5B51%3A05%3A360%5D+Poppy+Playtime+Chapter+3+-+No+Major+Skips&lang=es&timestamp=1773975783&background_color=%231a1b26&title_color=%237dcfff&stats_color=%23bb9af7&max_title_lines=1&width=250&border_radius=5 "[51:05:360] Poppy Playtime Chapter 3 - No Major Skips")](https://www.youtube.com/watch?v=aPcSeXwW8BU)
-[![[48:49:770] Poppy Playtime Chapter 3 - No Major Skips](https://ytcards.demolab.com/?id=grTTNa2ui4Y&title=%5B48%3A49%3A770%5D+Poppy+Playtime+Chapter+3+-+No+Major+Skips&lang=es&timestamp=1773871763&background_color=%231a1b26&title_color=%237dcfff&stats_color=%23bb9af7&max_title_lines=1&width=250&border_radius=5 "[48:49:770] Poppy Playtime Chapter 3 - No Major Skips")](https://www.youtube.com/watch?v=grTTNa2ui4Y)
-[![[38:842] Hello Guest (Pre Alpha) - Any%](https://ytcards.demolab.com/?id=sps5Ku9TqLI&title=%5B38%3A842%5D+Hello+Guest+%28Pre+Alpha%29+-+Any%25&lang=es&timestamp=1773757390&background_color=%231a1b26&title_color=%237dcfff&stats_color=%23bb9af7&max_title_lines=1&width=250&border_radius=5 "[38:842] Hello Guest (Pre Alpha) - Any%")](https://www.youtube.com/watch?v=sps5Ku9TqLI)
-[![[53:55:53] Poppy Playtime Chapter 3 - No Major Skips](https://ytcards.demolab.com/?id=2-qIlUrmWSY&title=%5B53%3A55%3A53%5D+Poppy+Playtime+Chapter+3+-+No+Major+Skips&lang=es&timestamp=1773702296&background_color=%231a1b26&title_color=%237dcfff&stats_color=%23bb9af7&max_title_lines=1&width=250&border_radius=5 "[53:55:53] Poppy Playtime Chapter 3 - No Major Skips")](https://www.youtube.com/watch?v=2-qIlUrmWSY)
-[![[6:01:870] Poppy Playtime Chapter 1 - Any%](https://ytcards.demolab.com/?id=cIpdL3AQjH4&title=%5B6%3A01%3A870%5D+Poppy+Playtime+Chapter+1+-+Any%25&lang=es&timestamp=1739497480&background_color=%231a1b26&title_color=%237dcfff&stats_color=%23bb9af7&max_title_lines=1&width=250&border_radius=5 "[6:01:870] Poppy Playtime Chapter 1 - Any%")](https://www.youtube.com/watch?v=cIpdL3AQjH4)
-[![LIKE RALLY (MONTAJE DE FORTNITE)](https://ytcards.demolab.com/?id=q7ivpgLLtn4&title=LIKE+RALLY+%28MONTAJE+DE+FORTNITE%29&lang=es&timestamp=1637697629&background_color=%231a1b26&title_color=%237dcfff&stats_color=%23bb9af7&max_title_lines=1&width=250&border_radius=5 "LIKE RALLY (MONTAJE DE FORTNITE)")](https://www.youtube.com/watch?v=q7ivpgLLtn4)
+
 <!-- END YOUTUBE-CARDS -->
 
 </div>
 
 ---
 
-## <span style="color:#8B5CF6;">Currently</span>
-
-Learning, building and looking for the next thing worth exploring.
+## <span style="color:#8B5CF6;">Estadisticas</span>
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdriLabTech&show_icons=true&theme=dark&bg_color=000000&title_color=FFFFFF&text_color=C0C0C0&icon_color=808080&border_color=333333&hide_border=false&include_all_commits=true&count_private=true"/>
 
-**Software · Systems · Security · AI**
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdriLabTech&layout=compact&theme=dark&bg_color=000000&title_color=FFFFFF&text_color=C0C0C0&border_color=333333&langs_count=8"/>
+</div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdriLabTech&theme=dark&background=000000&border=333333&stroke=808080&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=C0C0C0&currStreakLabel=FFFFFF&sideLabels=C0C0C0&dates=808080" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdriLabTech&bg_color=000000&color=FFFFFF&line=808080&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+</div>
+
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!-- TABLA DINÁMICA DE PROYECTOS -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+
+<img src="https://img.shields.io/badge/-333333?style=flat-square" width="12" height="12"/>  PROYECTOS DESTACADOS
+<div align="center">
 </div>
 
 ---
@@ -92,7 +96,7 @@ Learning, building and looking for the next thing worth exploring.
 
 ### <span style="color:#8B5CF6;">AdriLabTech</span>
 
-*Build something worth understanding.*
+*'Build something worth understanding.'*
 
 </div>
 
