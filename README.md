@@ -14,7 +14,7 @@
 
 ## <span style="color:#8B5CF6;">Acerca de mi...</span>
 
-I'm **Adriàn**, un desarrollador de aplicaciones multiplataformas interesando en sistemas, ciberseguridad y nuevas tecnologias.
+I'm **Adrián**, un desarrollador de aplicaciones multiplataformas interesando en sistemas, ciberseguridad y nuevas tecnologias.
 
 **AdriLabTech** es donde conviertos mis ideas en proyectos, experimento con documentacion, nuevas tecnologias y aprendo.
 
@@ -67,19 +67,9 @@ Trabajo en diferentes areas de la tecnologia en mis proyectos, desde aplicacione
 ---
 
 ## <span style="color:#8B5CF6;">Estadisticas</span>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdriLabTech&show_icons=true&theme=dark&bg_color=000000&title_color=FFFFFF&text_color=C0C0C0&icon_color=808080&border_color=333333&hide_border=false&include_all_commits=true&count_private=true"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdriLabTech&layout=compact&theme=dark&bg_color=000000&title_color=FFFFFF&text_color=C0C0C0&border_color=333333&langs_count=8"/>
-</div>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdriLabTech&theme=dark&background=000000&border=333333&stroke=808080&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=C0C0C0&currStreakLabel=FFFFFF&sideLabels=C0C0C0&dates=808080" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdriLabTech&bg_color=000000&color=FFFFFF&line=808080&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 ---
 
