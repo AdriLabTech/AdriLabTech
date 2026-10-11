@@ -59,7 +59,7 @@ Trabajo en diferentes areas de la tecnologia en mis proyectos, desde aplicacione
 <div align="center">
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![¿Y si la interfaz gráfica de tu sistema operativo fuera… un terminal?](https://ytcards.demolab.com/?id=G3IsWhOjtoc&title=%C2%BFY+si+la+interfaz+gr%C3%A1fica+de+tu+sistema+operativo+fuera%E2%80%A6+un+terminal%3F&lang=es&timestamp=1791363128&background_color=%231a1b26&title_color=%237dcfff&stats_color=%23bb9af7&max_title_lines=1&width=250&border_radius=5 "¿Y si la interfaz gráfica de tu sistema operativo fuera… un terminal?")](https://www.youtube.com/watch?v=G3IsWhOjtoc)
 <!-- END YOUTUBE-CARDS -->
 
 </div>
