@@ -59,12 +59,7 @@ Trabajo en diferentes areas de la tecnologia en mis proyectos, desde aplicacione
 <div align="center">
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Construyo mi propio sistema operativo en un terminal (TUI-OS, Rust)](https://ytcards.demolab.com/?id=2KalGDNjn50&title=Construyo+mi+propio+sistema+operativo+en+un+terminal+%28TUI-OS%2C+Rust%29&lang=es&timestamp=1791878733&background_color=%231a1b26&title_color=%237dcfff&stats_color=%23bb9af7&max_title_lines=1&width=250&border_radius=5 "Construyo mi propio sistema operativo en un terminal (TUI-OS, Rust)")](https://www.youtube.com/watch?v=2KalGDNjn50)
-[![Hice un explorador de archivos para la terminal en Rust (con vista previa de imágenes)](https://ytcards.demolab.com/?id=0d2ce4RNgbQ&title=Hice+un+explorador+de+archivos+para+la+terminal+en+Rust+%28con+vista+previa+de+im%C3%A1genes%29&lang=es&timestamp=1791121835&background_color=%231a1b26&title_color=%237dcfff&stats_color=%23bb9af7&max_title_lines=1&width=250&border_radius=5 "Hice un explorador de archivos para la terminal en Rust (con vista previa de imágenes)")](https://www.youtube.com/watch?v=0d2ce4RNgbQ)
-[![¿Porque existe Low Noise?](https://ytcards.demolab.com/?id=VtMk63oF5Ko&title=%C2%BFPorque+existe+Low+Noise%3F&lang=es&timestamp=1783813408&background_color=%231a1b26&title_color=%237dcfff&stats_color=%23bb9af7&max_title_lines=1&width=250&border_radius=5 "¿Porque existe Low Noise?")](https://www.youtube.com/watch?v=VtMk63oF5Ko)
-[![Directo de programacion libre en JAVA](https://ytcards.demolab.com/?id=m35oHLDJwsQ&title=Directo+de+programacion+libre+en+JAVA&lang=es&timestamp=1780853588&background_color=%231a1b26&title_color=%237dcfff&stats_color=%23bb9af7&max_title_lines=1&width=250&border_radius=5 "Directo de programacion libre en JAVA")](https://www.youtube.com/watch?v=m35oHLDJwsQ)
-[![100 Suscriptores… y esto acaba de empezar](https://ytcards.demolab.com/?id=qTzldVKp2YY&title=100+Suscriptores%E2%80%A6+y+esto+acaba+de+empezar&lang=es&timestamp=1779564547&background_color=%231a1b26&title_color=%237dcfff&stats_color=%23bb9af7&max_title_lines=1&width=250&border_radius=5 "100 Suscriptores… y esto acaba de empezar")](https://www.youtube.com/watch?v=qTzldVKp2YY)
-[![Directo Nocturno programando un CRUD en RUST (no Speaking)](https://ytcards.demolab.com/?id=xqwnrvmHMys&title=Directo+Nocturno+programando+un+CRUD+en+RUST+%28no+Speaking%29&lang=es&timestamp=1778596313&background_color=%231a1b26&title_color=%237dcfff&stats_color=%23bb9af7&max_title_lines=1&width=250&border_radius=5 "Directo Nocturno programando un CRUD en RUST (no Speaking)")](https://www.youtube.com/watch?v=xqwnrvmHMys)
+
 <!-- END YOUTUBE-CARDS -->
 
 </div>
