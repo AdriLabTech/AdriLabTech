@@ -2,7 +2,7 @@
 
 <img src="assets/hero.svg" alt="AdriLabTech: Construyendo software, explorando tecnologías, compartiendo el proceso" width="100%"/>
 
-<a href="https://www.youtube.com/@DriTech-u8e"><img src="assets/badge-youtube-low-noise.svg" alt="YOUTUBE · LOW NOISE" height="34"/></a>
+<a href="https://www.youtube.com/@Low_Noise-n4e"><img src="assets/badge-youtube-low-noise.svg" alt="YOUTUBE · LOW NOISE" height="34"/></a>
 <a href="https://github.com/AdriLabTech"><img src="assets/badge-github-adrilabtech.svg" alt="GITHUB · ADRILABTECH" height="34"/></a>
 
 </div>
