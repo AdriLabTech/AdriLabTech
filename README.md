@@ -1,60 +1,67 @@
 <div align="center">
 
+<img src="assets/hero.svg" alt="AdriLabTech: Construyendo software, explorando tecnologías, compartiendo el proceso" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=ADRILABTECH&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" width="100%"/>
-
-### <span style="color:#6B7280;">Construyendo software · Explorando tecnologias · Compartiendo el proceso</span>
-
-[![YouTube](https://img.shields.io/badge/YouTube-AdriLabTech-18181B?style=flat\&logo=youtube\&logoColor=white)](https://www.youtube.com/@DriTech-u8e)
-[![GitHub](https://img.shields.io/badge/GitHub-AdriLabTech-18181B?style=flat\&logo=github\&logoColor=white)](https://github.com/AdriLabTech)
+<a href="https://www.youtube.com/@DriTech-u8e"><img src="assets/badge-youtube-low-noise.svg" alt="YOUTUBE · LOW NOISE" height="34"/></a>
+<a href="https://github.com/AdriLabTech"><img src="assets/badge-github-adrilabtech.svg" alt="GITHUB · ADRILABTECH" height="34"/></a>
 
 </div>
 
----
+<img src="assets/section-about.svg" alt="Acerca de mí" width="100%"/>
 
-## <span style="color:#8B5CF6;">Acerca de mi...</span>
+Soy **Adrián**, desarrollador de aplicaciones multiplataforma interesado en sistemas, ciberseguridad y nuevas tecnologías.
 
-I'm **Adrián**, un desarrollador de aplicaciones multiplataformas interesando en sistemas, ciberseguridad y nuevas tecnologias.
+**AdriLabTech** es donde convierto mis ideas en proyectos, experimento con documentación y tecnologías nuevas, y aprendo. Disfruto construyendo cosas que me hagan pensar en la tecnología desde perspectivas distintas.
 
-**AdriLabTech** es donde convierto mis ideas en proyectos, experimento con documentacion, nuevas tecnologias y aprendo.
+> *"El código es como el humor. Cuando tienes que explicarlo, es malo."*
+> — Cory House
 
-Disfruto construyendo cosas que me hagan pensar en la tecnologia desde diferentes perspectivas.
+<img src="assets/section-work.svg" alt="Qué desarrollo" width="100%"/>
 
----
-```text
-"El código es como el humor. Cuando tienes que explicarlo, es malo."
-- Cory House
-```
+Trabajo en distintas áreas de la tecnología: desde aplicaciones para móviles y escritorio hasta herramientas de sistemas y seguridad de software.
 
-## <span style="color:#8B5CF6;">Que desarrollo...</span>
-Trabajo en diferentes areas de la tecnologia en mis proyectos, desde aplicaciones para moviles y escritorio, hasta herramientas de sistemas y seguridad de software.
+<img src="assets/section-projects.svg" alt="Proyectos" width="100%"/>
 
----
+<table>
+  <tr>
+    <td width="50%"><a href="https://github.com/AdriLabTech/sysTUI"><img src="assets/project-systui.svg" alt="sysTUI" width="100%"/></a></td>
+    <td width="50%"><a href="https://github.com/AdriLabTech/FileTUI"><img src="assets/project-filetui.svg" alt="FileTUI" width="100%"/></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/AdriLabTech/TUI-OS_Arching"><img src="assets/project-tui-os.svg" alt="TUI-OS" width="100%"/></a></td>
+    <td width="50%"><a href="https://github.com/AdriLabTech/N-Sharp"><img src="assets/project-n-sharp.svg" alt="N-Sharp" width="100%"/></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/AdriLabTech/ryoku-transit"><img src="assets/project-ryoku-transit.svg" alt="ryoku-transit" width="100%"/></a></td>
+    <td width="50%"><a href="https://github.com/AdriLabTech/claude-companion"><img src="assets/project-claude-companion.svg" alt="claude-companion" width="100%"/></a></td>
+  </tr>
+</table>
 
-## <span style="color:#8B5CF6;">Technologies</span>
+<img src="assets/section-stack.svg" alt="Tecnologías" width="100%"/>
 
 <div align="center">
 
-### Lenguages
+<img src="assets/badge-rust.svg" alt="RUST" height="34"/>
+<img src="assets/badge-java.svg" alt="JAVA" height="34"/>
+<img src="assets/badge-typescript.svg" alt="TYPESCRIPT" height="34"/>
+<img src="assets/badge-python.svg" alt="PYTHON" height="34"/>
+<img src="assets/badge-bash.svg" alt="BASH" height="34"/>
+<img src="assets/badge-sql.svg" alt="SQL" height="34"/>
 
-![Rust](https://img.shields.io/badge/Rust-18181B?style=flat-square\&logo=rust\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-18181B?style=flat-square\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-18181B?style=flat-square\&logo=python\&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-18181B?style=flat-square\&logo=gnubash\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-18181B?style=flat-square\&logo=postgresql\&logoColor=white)
+<img src="assets/badge-spring-boot.svg" alt="SPRING BOOT" height="34"/>
+<img src="assets/badge-angular.svg" alt="ANGULAR" height="34"/>
 
-### Herramientas
-
-![Linux](https://img.shields.io/badge/Linux-18181B?style=flat-square\&logo=linux\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-18181B?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-18181B?style=flat-square\&logo=github\&logoColor=white)
-![Podman](https://img.shields.io/badge/Podman-18181B?style=flat-square\&logo=podman\&logoColor=white)
+<img src="assets/badge-arch-linux.svg" alt="ARCH LINUX" height="34"/>
+<img src="assets/badge-linux.svg" alt="LINUX" height="34"/>
+<img src="assets/badge-git.svg" alt="GIT" height="34"/>
+<img src="assets/badge-github.svg" alt="GITHUB" height="34"/>
+<img src="assets/badge-docker.svg" alt="DOCKER" height="34"/>
+<img src="assets/badge-podman.svg" alt="PODMAN" height="34"/>
+<img src="assets/badge-obsidian.svg" alt="OBSIDIAN" height="34"/>
 
 </div>
 
----
-
-## <span style="color:#8B5CF6;">Ultimos videos</span>
+<img src="assets/section-videos.svg" alt="Últimos vídeos" width="100%"/>
 
 <div align="center">
 
@@ -69,20 +76,14 @@ Trabajo en diferentes areas de la tecnologia en mis proyectos, desde aplicacione
 
 </div>
 
----
-
-## <span style="color:#8B5CF6;">Estadisticas</span>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdriLabTech&theme=dark&background=000000&border=333333&stroke=808080&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=C0C0C0&currStreakLabel=FFFFFF&sideLabels=C0C0C0&dates=808080" />
-</div>
-
----
+<img src="assets/section-stats.svg" alt="Estadísticas" width="100%"/>
 
 <div align="center">
 
-### <span style="color:#8B5CF6;">AdriLabTech</span>
+<img src="https://streak-stats.demolab.com/?user=AdriLabTech&theme=dark&background=000000&border=3a3732&stroke=3a3732&ring=cdc4ba&fire=e2342a&currStreakNum=cdc4ba&currStreakLabel=cdc4ba&sideNums=cdc4ba&sideLabels=958f87&dates=958f87&border_radius=2" alt="Racha de contribuciones"/>
 
-*'Build something worth understanding.'*
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdriLabTech&layout=compact&hide_title=false&bg_color=000000&border_color=3a3732&border_radius=2&title_color=cdc4ba&text_color=958f87&icon_color=cdc4ba&ring_color=cdc4ba&hide_border=false" alt="Lenguajes más usados"/>
 
 </div>
 
+<img src="assets/footer.svg" alt="Build something worth understanding." width="100%"/>

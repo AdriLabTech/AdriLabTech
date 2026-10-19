@@ -27,9 +27,12 @@ jobs:
           youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}   # el feed RSS da 404; usa la API
           max_videos: 6
           card_width: 250
-          background_color: '#1a1b26'
-          title_color: '#7dcfff'
-          stats_color: '#bb9af7'
+          border_radius: 2
+          max_title_lines: 2
+          show_duration: true
+          background_color: '#0a0a0a'   # estilo Ryoku: papel negro, tinta hueso
+          title_color: '#cdc4ba'
+          stats_color: '#958f87'
           lang: 'es'
           author_name: 'AdriLabTech'
           author_email: 'labs.lownoise@gmail.com'
