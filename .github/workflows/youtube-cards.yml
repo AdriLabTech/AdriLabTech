@@ -24,6 +24,7 @@ jobs:
         uses: DenverCoder1/readme-youtube-cards@main
         with:
           channel_id: 'UCEI_tlLx1YTscFkO0Uh8uuQ'      # ← Channel ID
+          youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}   # el feed RSS da 404; usa la API
           max_videos: 6
           card_width: 250
           background_color: '#1a1b26'
